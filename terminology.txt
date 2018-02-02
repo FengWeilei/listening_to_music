@@ -1,0 +1,11 @@
+1. Briefly defined, music is the rational organization of sounds and silences passing through time. Tones must be arranged in some consistent, logical, and (usually) pleasing way before we can call these sounds “music” instead of just noise.
+
+2.A singer or an instrumentalist generates music literally by disturbing the environment, by creating vibrations that travel through the air as sound waves.
+
+3.Sound waves radiate out in a circle from their source, carrying with them two types of essential information: pitch and loudness.
+
+4.The speed of vibration within the sound wave determines what we perceive as high and low pitches; and the width (or amplitude) of the wave reflects it volume. 
+
+5.We tend to hear low, slow tones as relaxing, and high, rapid ones as tension filled. If the sound waves contain strong, regular pulses, we might start to tap our foot or move in synch with the pulse or beat—the groove.
+
+6.In digital recording all the components of musical sound—pitch, tone color, duration, volume, and more—are analyzed thousands of times per second, and that information is instantly stored as sequences of binary numbers. With equal speed this digital data can be reconverted to electrical impulses that are then changed back into analog sound that is amplified by speakers or earphones.
