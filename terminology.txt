@@ -9,3 +9,13 @@
 5.We tend to hear low, slow tones as relaxing, and high, rapid ones as tension filled. If the sound waves contain strong, regular pulses, we might start to tap our foot or move in synch with the pulse or beat—the groove.
 
 6.In digital recording all the components of musical sound—pitch, tone color, duration, volume, and more—are analyzed thousands of times per second, and that information is instantly stored as sequences of binary numbers. With equal speed this digital data can be reconverted to electrical impulses that are then changed back into analog sound that is amplified by speakers or earphones.
+
+7.Most processing of sounds (music as well as language) take place in the temporal lobe.
+
+8.If we are imagining how the next line of a song will go, that decision is usually reached in the frontal lobe. 
+
+9.If we are playing an instrument, we engage the motor center (parietal lobe) to move our fingers and the visual center (occipital lobe) to read the notes. 
+
+10.How music makes us feel—happy or sad, energetic or relaxed—is determined partly by another part of the brain, the amygdala, and by other factors as well. 
+
+11.Although scientists are uncertain exactly how and where all musical data are stored, we know that music and memory are tightly linked. The songs we best remember are those from our adolescence, when hormonal changes caused sonic information to be engraved in our brain forever.
